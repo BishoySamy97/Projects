@@ -10,10 +10,10 @@ The grammar is written to extract the following structures in COOL:
 4. Whitespaces
 5. Strings
 
-A) Lexer Function
+A) Lexer Function <br />
 it is used to verify the structure of Keywords such as "IF, WHILE, IN"
 
-B) Parser Function
+B) Parser Function <br />
 it is used to verify the structure of the lines consisted of keywords and that it's a verified code lines
 
 ## Usage
