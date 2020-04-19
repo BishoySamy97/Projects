@@ -10,6 +10,12 @@ The grammar is written to extract the following structures in COOL:
 4. Whitespaces
 5. Strings
 
+A) Lexer Function
+it is used to verify the structure of Keywords such as "IF, WHILE, IN"
+
+B) Parser Function
+it is used to verify the structure of the lines consisted of keywords and that it's a verified code lines
+
 ## Usage
 The Test cases used in this project placed in '\src\bad.cl' and '\src\good.cl' <br />
 Open Project using Java IDE and input the test file in:
