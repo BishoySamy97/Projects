@@ -18,11 +18,11 @@ it is used to verify the structure of the lines consisted of keywords and that i
 
 ## Usage
 The Test cases used in this project placed in '\src\bad.cl' and '\src\good.cl' <br />
-Open Project using Java IDE and input the test file in:
+Open Project using Java IDE and input the test file in main:
 ```java
 String file = "src/bad.cl";
 ```
-The output file will be in the src folder with the name of '(same filename)+-lex' for example in this case 'bad.cl-lex'
+The output file will be in the src folder with the name of '(same test filename)+-lex' for example in this case 'bad.cl-lex'
 
 ## Team Member
 Ebrahim Magdy <br />
